@@ -1,0 +1,16 @@
+main dish,other_node,other_node_type
+Fish and Chips,Fish,ingredient
+Fish and Chips,Potatoes,ingredient
+Fish Pie,Fish,ingredient
+Fish Pie,Potatoes,ingredient
+Fish and Chips,Baking,method
+Fish Pie,Baking,method
+Fish Pie,Boiling,method
+Fish Pie,Mashing,method
+Fish and Chips,Slicing,method
+Fish and Chips,Coleslaw,side dish
+Fish Pie,Mushy peas,side dish
+Massaman Curry,Potatoes,ingredient
+Massaman Curry,Massaman curry paste,ingredient
+Massaman Curry,Boiling,method
+Massaman Curry,Rice,side dish

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Graph Visualisation</title>
+        <meta charset="utf-8">
+        <style>
+            body {
+                margin-top: 0;
+                margin-bottom: 0;
+                display: flex;
+                flex-direction: column;
+                height: 100vh;
+            }
+            graph-visualisation {
+                flex: 1 1 auto;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Graph Visualisation</h1>
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script type="module" src="graph-visualisation.js"></script>
+        <graph-visualisation log="debug" data="graph.csv"></graph-visualisation>
+    </body>
+</html>
